@@ -73,14 +73,6 @@ plt.show()
 ### Output
 <img width="474" height="1245" alt="image" src="https://github.com/user-attachments/assets/7e69f22b-da1c-4231-a438-07ed419bb412" />
 
-<img width="474" height="1245" alt="image" src="https://github.com/user-attachments/assets/9592cfa4-6f12-46a9-be49-36bc04c1c0eb" />
-
-<img width="474" height="1245" alt="image" src="https://github.com/user-attachments/assets/fa0bd8f6-aefb-4930-932b-3dfdf785c2f4" />
-
-
-
-
-
 ### Result
 Thus, the maximum range of a radar system using the Radar Range Equation is verified through a Python program.
 
